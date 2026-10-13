@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "moe.barian.wallpaperengine.neoforge.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "TitleScreenMixin",
+    "ScreenMixin",
+    "LogoRendererMixin",
+    "ReceivingLevelScreenMixin",
+    "LevelLoadingScreenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

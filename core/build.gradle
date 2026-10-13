@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+group = 'moe.barian'
+version = '1.0.0'
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // JNA for window capturing (Windows only)
+    implementation 'net.java.dev.jna:jna:5.13.0'
+    implementation 'net.java.dev.jna:jna-platform:5.13.0'
+    // Gson for parsing project.json
+    implementation 'com.google.code.gson:gson:2.10.1'
+}

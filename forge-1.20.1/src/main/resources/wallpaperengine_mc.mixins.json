@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "moe.barian.wallpaperengine.forge.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "wallpaperengine_mc.refmap.json",
+  "mixins": [
+    "TitleScreenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

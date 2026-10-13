@@ -1,0 +1,22 @@
+{
+  "gui.wallpaperengine_mc.title": "Wallpaper Engine 動態桌布設定",
+  "gui.wallpaperengine_mc.button": "桌布設定",
+  "gui.wallpaperengine_mc.cancel": "取消",
+  "gui.wallpaperengine_mc.save": "儲存並啟動",
+  "gui.wallpaperengine_mc.on": "開啟",
+  "gui.wallpaperengine_mc.off": "關閉",
+  
+  "gui.wallpaperengine_mc.path": "桌布路徑",
+  "gui.wallpaperengine_mc.fps": "目標 FPS",
+  "gui.wallpaperengine_mc.width": "解析度 寬",
+  "gui.wallpaperengine_mc.height": "解析度 高",
+  
+  "gui.wallpaperengine_mc.label.enable": "啟用 Wallpaper Engine",
+  "gui.wallpaperengine_mc.label.path": "桌布資料夾路徑",
+  "gui.wallpaperengine_mc.label.fps": "目標 FPS",
+  "gui.wallpaperengine_mc.label.width": "解析度 (寬)",
+  "gui.wallpaperengine_mc.label.height": "解析度 (高)",
+  "gui.wallpaperengine_mc.label.debug_hud": "顯示偵錯資訊 (Debug HUD)",
+  "gui.wallpaperengine_mc.label.hide_logo": "隱藏 Minecraft Logo",
+  "gui.wallpaperengine_mc.label.replace_all": "替換所有選單背景"
+}

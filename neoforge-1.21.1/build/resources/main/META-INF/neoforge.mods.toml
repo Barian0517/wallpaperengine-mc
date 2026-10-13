@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT"
+
+[[mods]]
+modId="wallpaperengine_mc"
+version="1.0.0"
+displayName="WallpaperEngine MC"
+authors="barian.moe"
+description='''
+Allows you to render Wallpaper Engine scenes in Minecraft.
+'''
+[[dependencies.wallpaperengine_mc]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.wallpaperengine_mc]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"
+
+[[mixins]]
+config="wallpaperengine_mc.mixins.json"

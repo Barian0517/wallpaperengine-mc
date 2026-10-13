@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+
+Command-Line:
+ - C:\Program Files\Zulu\zulu-21\bin\java.exe
+ - -jar
+ - C:\Users\user\.gradle\caches\modules-2\files-2.1\io.codechicken\DiffPatch\2.0.0.36\5b32f9baa0c0371c0dc80a3b88794960af0c6b44\DiffPatch-2.0.0.36-all.jar
+ - C:\Users\user\.gradle\caches\neoformruntime\intermediate_results\patch_1fb6a661d3ea46d8bdfa5753ecef4472b14bd07b_output.zip
+ - C:\Users\user\.gradle\caches\modules-2\files-2.1\net.neoforged\neoforge\21.1.61\86290187c8f47fccf3b2074e7ebdbd4bf5d1cc30\neoforge-21.1.61-userdev.jar
+ - --prefix
+ - patches/
+ - --patch
+ - --archive
+ - ZIP
+ - --output
+ - ./output.zip
+ - --log-level
+ - WARN
+ - --mode
+ - OFFSET
+ - --archive-rejects
+ - ZIP
+ - --reject
+ - ./outputRejects.zip
+ - --base-path-prefix
+ - a/
+ - --modified-path-prefix
+ - b/
+--------------------------------------------------------------------------------
+

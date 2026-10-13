@@ -1,0 +1,22 @@
+{
+  "gui.wallpaperengine_mc.title": "Wallpaper Engine Configuration",
+  "gui.wallpaperengine_mc.button": "WE Settings",
+  "gui.wallpaperengine_mc.cancel": "Cancel",
+  "gui.wallpaperengine_mc.save": "Save & Launch",
+  "gui.wallpaperengine_mc.on": "ON",
+  "gui.wallpaperengine_mc.off": "OFF",
+  
+  "gui.wallpaperengine_mc.path": "Wallpaper Path",
+  "gui.wallpaperengine_mc.fps": "Target FPS",
+  "gui.wallpaperengine_mc.width": "Width",
+  "gui.wallpaperengine_mc.height": "Height",
+  
+  "gui.wallpaperengine_mc.label.enable": "Enable Wallpaper Engine",
+  "gui.wallpaperengine_mc.label.path": "Wallpaper Directory",
+  "gui.wallpaperengine_mc.label.fps": "Target FPS",
+  "gui.wallpaperengine_mc.label.width": "Resolution Width",
+  "gui.wallpaperengine_mc.label.height": "Resolution Height",
+  "gui.wallpaperengine_mc.label.debug_hud": "Debug HUD",
+  "gui.wallpaperengine_mc.label.hide_logo": "Hide Minecraft Logo",
+  "gui.wallpaperengine_mc.label.replace_all": "Replace All Backgrounds"
+}
